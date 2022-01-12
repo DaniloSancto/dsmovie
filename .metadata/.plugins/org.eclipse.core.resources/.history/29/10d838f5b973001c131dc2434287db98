@@ -1,0 +1,7 @@
+package com.devsuperior.dsmovie.entities;
+
+public class ScorePK {
+
+	private User user;
+	private Movie movie;
+}
