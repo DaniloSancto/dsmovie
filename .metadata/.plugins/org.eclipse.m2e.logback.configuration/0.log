@@ -787,3 +787,4 @@
 2022-01-15 18:22:53,184 [Worker-2: Launching backend - DsmovieApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
 2022-01-15 18:22:53,489 [Worker-2: Launching backend - DsmovieApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2022-01-15 18:22:53,514 [Worker-2: Launching backend - DsmovieApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-15 18:22:53,515 [Worker-2: Launching backend - DsmovieApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\danil\Documents\vscode-projects\dsmovie\backend\src\test\resources
